@@ -1,3 +1,4 @@
+deploy_hosts : 10.1.1.134
 default_user : ec2-user
 default_group : ec2-user
 
